@@ -1,5 +1,9 @@
-//var x = prompt('please enter your age');
-     if(x >= 18){
+function ahmad(){
+
+
+  var x = prompt('please enter your age');
+
+     if(x >= 18 ){
   document.write('welcome to page');
   document.write('<img src="https://images-na.ssl-images-amazon.com/images/I/51zLZbEVSTL._AC_SL1200_.jpg">');
 } 
@@ -10,7 +14,16 @@ else if(x < 18){
   document.write('<img src="https://i.pinimg.com/736x/b4/42/b3/b442b3c2ac6ac0beffc9e554474a208c.jpg ">');
   
 }
- /* var y = prompt('Hello, please enter your fav actor name from The Dark Knight movie ?');
+ 
+ }
+
+
+
+
+
+function jarrar(){
+
+var y = prompt('Hello, please enter your fav actor name from The Dark Knight movie ?');
   while(y !== 'jack' && y !== 'bool'){
   y = prompt('Please enter the name jack or bool');}
   var z;
@@ -25,4 +38,12 @@ var imagesNumber= prompt('How many image do you want???');
 
 for(var i=0 ; i < imagesNumber; i++){
   document.write(z);
-}*/
+}
+
+
+}
+ 
+  jarrar();
+  ahmad();
+
+
