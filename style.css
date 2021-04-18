@@ -1,0 +1,25 @@
+h1{ color:#DAF005;
+ text-align:center;
+}
+header{
+   background-color:#A3701C;
+ }
+  nav ul li {
+   display: inline;
+   margin: 40px;}
+
+    main article h3{
+      color:#F06B37;
+   border: 5px;
+   padding: 5px;
+   margin: 10px;
+ }
+ main article img{
+   width:75%;
+   opacity: 1;
+ }
+
+#num{color:#1ABD30;
+ }
+
+
